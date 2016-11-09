@@ -4,6 +4,8 @@ DateTimeConvert
 Usage
 -----
 
+see https://gist.github.com/flecomte/22cc9dcfbc2f697bc37414189486bb8b
+
 ```php
 <?php
 
