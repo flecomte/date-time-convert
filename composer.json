@@ -1,0 +1,25 @@
+{
+    "name": "fle/date-time-convert",
+    "description": "Help to convert date and time",
+    "keywords": ["date","time","convert"],
+    "type": "library",
+    "license" : "MIT",
+    "authors": [
+        {
+            "name": "Lecomte Fabrice",
+            "email": "rusk23@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "FLE\\DateTimeConvert\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
